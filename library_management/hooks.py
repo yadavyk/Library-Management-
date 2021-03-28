@@ -5,7 +5,7 @@ from . import __version__ as app_version
 app_name = "library_management"
 app_title = "Library Management"
 app_publisher = "Yashi Yadav"
-app_description = "Library Management System "
+app_description = "Library Management System"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "yashi@erpnext.com"

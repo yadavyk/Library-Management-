@@ -10,7 +10,7 @@ from library_management import __version__ as version
 setup(
 	name='library_management',
 	version=version,
-	description='Library Management System ',
+	description='Library Management System',
 	author='Yashi Yadav',
 	author_email='yashi@erpnext.com',
 	packages=find_packages(),
